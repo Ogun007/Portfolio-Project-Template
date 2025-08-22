@@ -1,4 +1,4 @@
-![[./screenshot.png]]
+![image](https://github.com/Ian-Val/Portfolio-Project-Template/blob/21013173e474b8b73c11447b2ddb0427e5832756/screenshot.png)
 
 # Instructions
 
