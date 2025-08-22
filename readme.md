@@ -1,4 +1,4 @@
-![image](https://github.com/Ian-Val/Portfolio-Project-Template/blob/21013173e474b8b73c11447b2ddb0427e5832756/screenshot.png)
+![image](https://github.com/Ian-Val/Portfolio-Project-Template/blob/28c3e92ab34e8e4905c68b458087d16b11f6cfa8/meta-screenshot.png)
 
 # Instructions
 
