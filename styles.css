@@ -21,6 +21,11 @@ h1 {
   color: #222;
 }
 
+.name {
+  color: #777;
+  font-size: 0.9rem;
+}
+
 .date {
   color: #777;
   font-size: 0.9rem;
