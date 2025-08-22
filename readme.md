@@ -31,4 +31,5 @@
 
 7. **Get your live URL**  
    - Once deployment finishes, Vercel will provide a public link to your website.  
-   - Share this link to showcase your project.  
+   - Share this link to showcase your project.
+   - Reference [https://portfolio-project-template.vercel.app/](https://portfolio-project-template.vercel.app/).
