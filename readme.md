@@ -1,3 +1,5 @@
+![[screenshot.png]]
+
 # Instructions
 
 1. **Sign up for GitHub**  
